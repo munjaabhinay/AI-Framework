@@ -1,4 +1,4 @@
-**AI Framework for Detecting Anomalous IoT Network Traffic (Mirai & BASHLITE Botnet Attack Detection)**
+**AI-Driven Intrusion Detection: A Federated Learning Dataset for Cloud and Edge Security**
 
 **Overview**
 
